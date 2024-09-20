@@ -14,6 +14,7 @@ After receiving the text alert and you have either used the responder app to say
 - Note the time that aspirin was given, write it on glove as is easiest.
 - Continue with conversation and reassurance to the patient in a calm manner, all the while monitoring the patient and there level of alertness etc.
 - Advise family members/ friends to pack a small bag for the patient in case patient will be transported, include night clothes, socks and jocks, phone charger etc.
-**NOTE**: Neoc can be rung at any stage throughout the process quoting the incident number and updates on patients condition or ETA of ambulance obtained.
+
+**Note:** : Neoc can be rung at any stage throughout the process quoting the incident number and updates on patients condition or ETA of ambulance obtained.
 
 Remember, you are there to TRY to help, not all calls are hands on chests but mainly information gathering for the ambulance crews. Remain calm and don't run around, always walk and reassure the patient and family that they have done the right thing by ringing an ambulance as its always better to be save than sorry. 
