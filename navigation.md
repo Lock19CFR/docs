@@ -1,6 +1,6 @@
 # Lock 19 Community First Responder Group
 
-[Home](home.md)
+[Home](index.md)
 
 [Courses](courses.md)
 
