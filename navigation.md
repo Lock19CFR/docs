@@ -5,12 +5,12 @@
 [Courses](courses.md)
 
 [Procedures]()
-  - [General Callout Guidelines](procedures_general.md)
-  - [Chest Pain](procedures_chestpain.md)
+- [General Callout Guidelines](procedures_general.md)
+- [Chest Pain](procedures_chestpain.md)
 
 [Contact](contact.md)
 
 --- 
-[gimmick:theme (inverse: false)](spacelab)
+[gimmick:theme (inverse: false)](united)
 
 [gimmick:ThemeChooser](Change theme)
