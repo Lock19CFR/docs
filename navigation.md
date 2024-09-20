@@ -11,11 +11,7 @@
 
 [Contact](contact.md)
 
-[Docs]()
 
-- [Quickstart](quickstart.md)
-- [Layout](layout.md)
-- [FAQ](faq.md)
 
 --- 
 [gimmick:theme (inverse: false)](united)
