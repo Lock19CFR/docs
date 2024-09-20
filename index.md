@@ -1,2 +1,1 @@
 ## Test
-[gimmick:themechooser](united)
