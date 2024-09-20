@@ -2,7 +2,7 @@
 
 After receiving the text alert and you have either used the responder app to say you were attending and on scene etc or replied to the text with the codes, please use the following purely as a GUIDELINE on what to do while with the patient.
 
-- Introduce yourself as a first responder and ask who and where is the patient
+- Introduce yourself as a first responder and ask who and where is the patient.
 - All while checking for scene safety, again introduce yourself to the patient, ask how they are feeling and to describe the symptoms.
 - Upon gaining this information, and all the while remaining calm, rule out the contra-indicators for aspirin.
   - **A**ge{over 16}, **a**ctive bleeding ulcer or bleeding disorder and known severe **a**llergic reaction, or has **a**lready taken aspirin (in connection with the chest pain)
