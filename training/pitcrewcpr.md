@@ -1,6 +1,7 @@
 # Pit crew CPR (or Team Resuscitation)
 
-## This training session plan has been written for the Lock 19 First Responder Group. It outlines a training session for CFRs to learn about Pit Crew CPR. This plan follows the [CFR Community CPGs](https://becomeacfr.ie/wp-content/uploads/2022/07/PHECC-CPG-2021-CFR-Community.pdf)
+## Overview 
+This training session plan has been written for the Lock 19 First Responder Group. It outlines a training session for CFRs to learn about Pit Crew CPR. This plan follows the [CFR Community CPGs](https://becomeacfr.ie/wp-content/uploads/2022/07/PHECC-CPG-2021-CFR-Community.pdf) 
 This training introduces CFRs to Pit crew CPR. The overall idea is to set up a simple CPR situation. Printed role cards are available for all six roles of the Pit crew CPR. Every 10 or twenty seconds, or whenever necessary, the instructor stops the running timer. When the timer is stopped, CFRs can use their role cards to check what their responsibilities are, talk to each other about the ongoing CPR. This approach takes time pressure off and encourages communication among CFRs. Issues can be talked about as they occur.
 
 
@@ -34,6 +35,7 @@ Explain the setup, explain that you have the power to stop time. When time is st
 
 ### Activity
 *30 Minutes*
+
 1. The first CFR "arrives" at the scene. They take the role card for role 1 and begin the CPR. About 10 or 20 seconds in, stop the time and let them describe what they did and how they feel. The goal is not to criticize, but to understand the roles.
 2. Now let the second CFR enter the scene. They take the card for role 2. You can stop the time here to give them a chance to read the card if they need. Let them go on for a few seconds, then stop the time again and let them discuss.
 3. Now let the third CFR arrive. Use your time-freezing to make sure the three are clear about their roles and who is lead. When they swap roles, they must also swap cards.
@@ -47,4 +49,4 @@ Explain the setup, explain that you have the power to stop time. When time is st
 
 Thank the group and ask them how the experience has been for them. Ask how the roles worked for them and how the change of roles worked. Make sure the handover of the lead role is clearly expressed between Role 1 and Role 4 "I am giving you lead" and new arrivals know what roles to expect. Emphasize the importance of communication between CFRs. Ask for past experiences on team CPR.
 
-note: Real life can be very different from training. You might not have enough responders for all roles, or ambulance crew will take over before you filled all roles. Still, it is very important to know the procedure especially for roles 1 to 4.
+Note: Real life can be very different from training. You might not have enough responders for all roles, or ambulance crew will take over before you filled all roles. Still, it is very important to know the procedure especially for roles 1 to 4.
