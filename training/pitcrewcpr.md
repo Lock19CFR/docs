@@ -10,7 +10,7 @@ You will need
    - a CPR dummy
    - a training AED (Leave it switched off for this training)
    - a timer or stopwatch (phone will do)
-   - the role signs, print them out and laminate if you can
+   - the [role signs](https://github.com/Lock19CFR/docs/blob/34331de1f758d8d6735179caa307016f368a49c4/training/materials.pdf), print them out and laminate if you can
    - something to get everyone's attention like a bell, buzzer, etc. Otherwise shout or clap your hands
    - a cap, hat or anything to show who is the lead
    
