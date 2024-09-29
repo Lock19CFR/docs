@@ -11,7 +11,7 @@
 
 [Training Sessions]()
 
-  -[Pit Crew CPR](training/pitcrewcpr.md)
+- [Pit Crew CPR](training/pitcrewcpr.md)
 
 [Contact](contact.md)
 
