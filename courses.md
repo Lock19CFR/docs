@@ -7,7 +7,7 @@ These need to be completed before you can go on calls and must be kept up to dat
 - [HSE: AMRIC Basics of Infection Prevention and Control](https://www.hseland.ie/ekp/servlet/ekp?PX=N&TEACHREVIEW=N&CID=EKP000005846&TX=FORMAT1&LANGUAGE_TAG=0&DECORATEPAGE=N)
 - [HSE: Putting on and taking off PPE in Community Healthcare Settings](https://www.hseland.ie/ekp/servlet/ekp?PX=N&TEACHREVIEW=N&CID=EKP000003176&TX=FORMAT1&LANGUAGE_TAG=0&DECORATEPAGE=N)
 - [HSE: Putting on and taking off PPE in Acute Healthcare Settings](https://www.hseland.ie/ekp/servlet/ekp?PX=N&TEACHREVIEW=N&CID=EKP000003175&TX=FORMAT1&LANGUAGE_TAG=0&DECORATEPAGE=N)
-- [Dillon Academy: Critical Incident Stress Management For CFRs](https://www.dillonacademy.com/client/responder/course/view.php?id=6)
+- [Dillon Academy: Critical Incident Stress Management For CFRs](https://www.phecit.ie/PHECC/Public_and_patients/Responders/PHECC/Public_and_Patients/Responders/Responders.aspx)
 
 ## Other Essentials:
 - Account at https://nascommunityoperations.ie - This is where you can upload your certs
