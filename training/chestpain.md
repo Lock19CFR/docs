@@ -3,13 +3,13 @@
 Objective:
 By the end of the 50-minute session, participants will understand how to respond to chest pain calls, focusing on assessment, aspirin administration, monitoring, and handover. The lesson will foster collaboration between experienced and new CFRs through shared experiences and interactive activities.
 Duration: 50 minutes
-Materials:
 
-    Projector and screen
-    Presentation slides (chest pain scenario)
-    Visual aids illustrating key actions (previously created images)
-    Whiteboard or flip chart for group discussion
-    Participant worksheets (optional)
+Materials:
+- Projector and screen
+- Presentation slides (chest pain scenario)[https://github.com/Lock19CFR/docs/blob/b9ce6ce27bf8b58297320f40d2d23d5ca329f219/training/Chest%20Pain%20Scenario.pptx]
+- Visual aids illustrating key actions (previously created images)
+- Whiteboard or flip chart for group discussion
+- Participant worksheets (optional)
 
 ## Lesson Breakdown
  1. Introduction (5 minutes)
