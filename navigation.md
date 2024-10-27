@@ -12,6 +12,7 @@
 [Training Sessions]()
 
 - [Pit Crew CPR](training/pitcrewcpr.md)
+- [Scenario: Chest Pain](training/chest pain.md)
 
 [Contact](contact.md)
 
